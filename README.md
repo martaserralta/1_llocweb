@@ -3,5 +3,5 @@
 primera práctica
 
 ## continguts
-*crear document html
-*
+* crear document html
+* cetiquets
